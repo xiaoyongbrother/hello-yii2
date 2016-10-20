@@ -1,5 +1,5 @@
 <?php
-namespace xy\hello;
+namespace xiaoyongbrother\hello;
 
 class Hello
 {

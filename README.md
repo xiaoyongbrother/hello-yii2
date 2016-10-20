@@ -1,8 +1,8 @@
 ## 1.安装
 ```
-composer require xy/hello-yii2:"*"
+composer require xiaoyongbrother/hello-yii2:"*"
 ```
 ## 2.使用
 ```
-<?= \xy\hello\Hello::sayHello()?>
+<?= \xiaoyongbrother\hello\Hello::sayHello()?>
 ```
