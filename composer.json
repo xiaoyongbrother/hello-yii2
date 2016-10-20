@@ -1,0 +1,21 @@
+{
+    "name": "xy/hello-yii2",
+    "description": "say hello for yii2",
+    "keywords": ["yii", "yii2", "extension", "hello"],
+	"homepage": "https://github.com/xiaoyongbrother/hello-yii2"
+	"type": "yii2-extension",
+	"authors": [
+		{
+			"name": "xy",
+			"email": "zhangxyai@163.com"
+		}
+	],
+    "license": "BSD 3-Clause",
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"xy\\hello\\": ""
+		}
+	}
+}
