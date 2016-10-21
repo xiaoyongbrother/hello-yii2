@@ -2,7 +2,7 @@
 ```
 composer require xiaoyongbrother/hello-yii2:"*"
 ```
-## 2.使用
+## 2.使用-1
 ```
 <?= \xiaoyongbrother\hello\Hello::sayHello()?>
 ```
