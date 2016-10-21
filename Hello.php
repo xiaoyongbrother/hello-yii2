@@ -5,7 +5,7 @@ class Hello
 {
 	public static function sayHello()
 	{/*{{{*/
-		return "hello word";
+		return "hello word!";
 	}/*}}}*/
 }
 
